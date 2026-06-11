@@ -1,0 +1,15 @@
+{
+  "compartmentId": "ocid1.compartment.oc1..replace-me",
+  "availabilityDomain": "replace-me:US-ASHBURN-AD-1",
+  "subnetId": "ocid1.subnet.oc1..replace-me",
+  "imageId": "ocid1.image.oc1..replace-me",
+  "shape": "VM.Standard.A1.Flex",
+  "ocpus": 1,
+  "memoryInGBs": 6,
+  "displayName": "always-free-a1",
+  "sshPublicKeyPath": "C:\\Users\\you\\.ssh\\id_rsa.pub",
+  "assignPublicIp": true,
+  "profile": "DEFAULT",
+  "retryDelaySeconds": 45,
+  "maxAttempts": 0
+}
